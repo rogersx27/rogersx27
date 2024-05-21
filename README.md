@@ -1,6 +1,6 @@
 # About Me:
 - I am passionate about the back-end world
-- I am interested in collaborating on various projects, my area of knowledge is based on backend technologies and process automation (data analysis, web-scraping, databases)
+- I am interested in collaborating on various projects, my area of knowledge is based on backend technologies and process automation (data analysis, web-scraping, databases, backend)
 - I have good foundations in web programming, but this is not my strong suit. I would like to learn to design.
 - Right now I use some technologies such as: Python, Java, Git, TypeScript and Docker.
 - Right now it is more complicated for me to center a div than to normalize a database.
